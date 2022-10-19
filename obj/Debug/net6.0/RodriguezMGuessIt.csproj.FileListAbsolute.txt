@@ -1,0 +1,15 @@
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/bin/Debug/net6.0/RodriguezMGuessIt
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/bin/Debug/net6.0/RodriguezMGuessIt.deps.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/bin/Debug/net6.0/RodriguezMGuessIt.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/bin/Debug/net6.0/RodriguezMGuessIt.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/bin/Debug/net6.0/RodriguezMGuessIt.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/obj/Debug/net6.0/RodriguezMGuessIt.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/obj/Debug/net6.0/RodriguezMGuessIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/obj/Debug/net6.0/RodriguezMGuessIt.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/obj/Debug/net6.0/RodriguezMGuessIt.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/obj/Debug/net6.0/RodriguezMGuessIt.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/obj/Debug/net6.0/RodriguezMGuessIt.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/obj/Debug/net6.0/refint/RodriguezMGuessIt.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/obj/Debug/net6.0/RodriguezMGuessIt.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/obj/Debug/net6.0/RodriguezMGuessIt.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMGuessIt/obj/Debug/net6.0/ref/RodriguezMGuessIt.dll
